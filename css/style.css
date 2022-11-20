@@ -762,6 +762,8 @@ a:focus {
   list-style: none;
   padding-bottom: 15px;
   line-height: 1.2;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .requirement-list li {
